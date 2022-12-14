@@ -8,3 +8,10 @@ The main goal is to create an efficient Automatic Number Plate Identification sy
 <b>🤝 Contact to Buy:<br></b>
 Email: v.snehith999@gmail.com<br>
 LinkedIn: https://www.linkedin.com/in/snehitvaddi/<br>
+
+<b>📑 What do you get:</b><br>
+- PYTHON code for CNN Training, & Testing<br>
+- Desktop Application with Code<br>
+- Project Report<br>
+- PPT<br>
+- Video Demo<br>
